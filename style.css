@@ -1,0 +1,12 @@
+body {
+    background: rgb(33, 43, 63) ;
+  }
+  
+  .container {
+    max-width: 400px;
+  }
+  
+  h1 {
+    font-size: 2.2rem;
+  }
+
